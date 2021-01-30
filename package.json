@@ -1,6 +1,6 @@
 {
   "name": "create-alert",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "a cli for alert",
   "main": "./bin/index.js",
   "bin": {
